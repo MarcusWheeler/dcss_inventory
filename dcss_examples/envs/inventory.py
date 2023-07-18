@@ -4,24 +4,24 @@ import pygame
 import numpy as np
 import random
 #from item import Item
-        """
-        TODO:
-        Sort inventory by AC/EV/etc... and figure out max AC etc.
-        Actually get reward function going
-            -This includes doing the dodging and EV formulas
-        
-        
-        """
+"""
+TODO:
+Sort inventory by AC/EV/etc... and figure out max AC etc.
+Actually get reward function going
+-This includes doing the dodging and EV formulas
+
+
+"""
 class InventoryEnv(gym.Env):
     metadata = {"render_modes": ["human", "rgb_array", "None"], "render_fps": 4}
 
-    def __init__(self, render_mode=None, verbose_output = False):
+    def __init__(self, render_mode=None, verbose_output = False, max_iterations = 100):
         self.size = 341  # The size of our observation space - AC, EV, SH, ATTSP, ATT, STR, INT, DEX, SKILL:SH, SKILL:AC, SKILL: EV
         self.window_size = 512  # The size of the PyGame window
         
         self.verbose_output = verbose_output
         self.iteration = 0 #Which turn we're on
-        self.max_iterations = 100 # End of episode
+        self.max_iterations = max_iterations# End of episode
         #Set all of our stats. I can move this to a dict should I feel like it
         self.AC = 0
         self.EV = 0
@@ -36,38 +36,16 @@ class InventoryEnv(gym.Env):
         self.SKAC = 0
         self.SKEV = 0
         
+        
+        
         #Set the stats for our current character - they'll be static for now
         self._randomize_stats()
         
         #List containing our items - will be full of random objects at first. Will add in other features later
         self.inventory = [None] * 59 #Just filling with nothing for now - will be filled with inventory items later
         
-        #def __init__(self, name, item_type, AC = 0, SH = 0, ATT = 0, ATTSP = 0, ENC = 0, EV = 0)
-        perfects = []
-        for i in range(5):
-            perfects.append(random.choice(range(52)))
-        for i in range(52):
-            if i in perfects:
-                self.inventory[i] = Item("perfect",random.choice(range(5)), 19, 0, 0, 0, 19, 19)
-            else:
-                self.inventory[i] = Item("dummy", "dummy")
-                self.inventory[i].generate_random_item()
-        """
-        Item type is the slot it goes in: 
-        0: Helmet
-        1: Boots
-        2: Cape
-        3: Gloves
-        4: Body
-        5: Shield
-        6: Weapon
-        Max AC: 100
-        Max EV: 100
-        Max SH: 20
-        Max ATT: 20
-        Max ATTSP: 20
-        Max ENC: 100
-        """
+        self._set_up_random_inventory()
+        
         #Start with randomized inventory to spice things update
         self.currently_equipped = [None] * 7
         
@@ -154,7 +132,18 @@ class InventoryEnv(gym.Env):
         """
         self.window = None
         self.clock = None
-
+        
+    def _set_up_random_inventory(self):
+        perfects = []
+        for i in range(5):
+            perfects.append(random.choice(range(52)))
+        for i in range(52):
+            if i in perfects:
+                self.inventory[i] = Item("perfect",random.choice(range(5)), 19, 0, 0, 0, 19, 19)
+            else:
+                self.inventory[i] = Item("dummy", "dummy")
+                self.inventory[i].generate_random_item()
+                
     def _randomize_stats(self):
         self.STR = random.choice(range(40))
         self.INT = random.choice(range(40))
@@ -281,13 +270,15 @@ class InventoryEnv(gym.Env):
             #        reward -= 100
             #reward += (self.AC + self.EV + self.ATT + self.ATTSP - self.ENC + self.SH)        
             if self.verbose_output is True:
-                with open('terminated_logs.txt','a') as f:
+                reward = self.AC * (self.SKAC/(26+self.ENC)) + self.EV * (self.SKEV/(26+self.ENC)) + self.SH * (self.SKSH/(26+self.ENC)) + self.ATT * (1/(1+self.ATTSP))
+                with open('logs/terminated_logs.txt','a') as f:
                     for i in range(7):
                         if self.currently_equipped[i] is not None:
                             self.currently_equipped[i].print_stats(f)
-                    print("Final AC: ", self.AC, "\nFinal EV: ", self.EV, "\nFinal SH: ", self.SH, "\nFinal ENC: ", self.ENC, "\nFinal ATT: ", self.ATT, "\nFinal ATTSP: ", self.ATTSP, file=f)
+                    print("Final AC: ", self.AC, "\nFinal EV: ", self.EV, "\nFinal SH: ", self.SH, "\nFinal ENC: ", self.ENC, "\nFinal ATT: ", self.ATT, "\nFinal ATTSP: ", self.ATTSP, "\nFinal SKAC: ", self.SKAC, 
+                    "\nFinal SKEV: ", self.SKEV, "\nFinal SKSH: ", self.SKSH, "\nFinal Reward: ", reward, file=f)
                 f.close()
-            reward = self.AC
+
         return reward
     
     def toggle_verbose_output(self):

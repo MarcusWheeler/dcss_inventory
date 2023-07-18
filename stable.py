@@ -3,28 +3,32 @@ import dcss_examples
 from stable_baselines3 import PPO
 from stable_baselines3.common.env_util import make_vec_env
 import time
+import sys
+sys.path.append("logs/")
+import process
 # Parallel environments
-vec_env = make_vec_env("dcss_examples/Inventory-v0", n_envs=4, env_kwargs={"render_mode": "None", "verbose_output": "False"})
+iterations = 30
+vec_env = make_vec_env("dcss_examples/Inventory-v0", n_envs=1, env_kwargs={"render_mode": "None", "verbose_output": "False", "max_iterations":iterations})
 
-model = PPO("MultiInputPolicy", vec_env, verbose=1, device="cpu")
-model.learn(total_timesteps=10000)
-#model.save("ppo_cartpole")
+model = PPO("MultiInputPolicy", vec_env, verbose=0, device="cpu")
+model.load("dcss_inventory_bot")
+model.learn(total_timesteps=2048)
 
-#del model # remove to demonstrate saving and loading
-
-#model = PPO.load("ppo_cartpole")
 
 obs = vec_env.reset()
 vec_env.env_method("toggle_verbose_output")
-print("Should be toggled")
+print("Starting records:")
 
-for i in range(1001):#10000 iterations
+"""
+TODO:
+Visualize rewards over the multiple sessions
+"""
+for i in range(iterations*10+1): #Get ten example results
     action, _states = model.predict(obs)
     obs, rewards, dones, info = vec_env.step(action)
-    
-    print(i)
-    #vec_env.env_method("print_current_stats")
-    #if rewards > 20:
-    
-    #time.sleep(1)
-    #vec_env.render(None)
+
+model.save("dcss_inventory_bot")
+
+processor = process.Processor("logs/")
+processor.set_up_lists()
+processor.plot_all()

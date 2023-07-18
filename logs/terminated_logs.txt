@@ -1,0 +1,6051 @@
+Name:  dummy 
+Type:  0 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  1 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  2 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  3 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  4 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  18 
+ATTSP:  2 
+ENC:  0
+Final AC:  30 
+Final EV:  31 
+Final SH:  0 
+Final ENC:  35 
+Final ATT:  18 
+Final ATTSP:  2 
+Final SKAC:  12 
+Final SKEV:  26 
+Final SKSH:  19 
+Final Reward:  25.114754098360656
+Name:  dummy 
+Type:  0 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  1 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  2 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  3 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  3 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  3 
+ATTSP:  1 
+ENC:  0
+Final AC:  27 
+Final EV:  44 
+Final SH:  3 
+Final ENC:  61 
+Final ATT:  3 
+Final ATTSP:  1 
+Final SKAC:  5 
+Final SKEV:  23 
+Final SKSH:  8 
+Final Reward:  14.959770114942529
+Name:  dummy 
+Type:  0 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  1 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  2 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  3 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  4 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  3 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  18 
+ATTSP:  2 
+ENC:  0
+Final AC:  45 
+Final EV:  60 
+Final SH:  3 
+Final ENC:  57 
+Final ATT:  18 
+Final ATTSP:  2 
+Final SKAC:  19 
+Final SKEV:  19 
+Final SKSH:  15 
+Final Reward:  30.57831325301205
+Name:  dummy 
+Type:  0 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  perfect 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  4 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  9 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  7 
+ATTSP:  18 
+ENC:  0
+Final AC:  27 
+Final EV:  43 
+Final SH:  9 
+Final ENC:  50 
+Final ATT:  7 
+Final ATTSP:  18 
+Final SKAC:  0 
+Final SKEV:  6 
+Final SKSH:  2 
+Final Reward:  3.9999999999999996
+Name:  dummy 
+Type:  0 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  1 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  2 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  3 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  3 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  11 
+ATTSP:  19 
+ENC:  0
+Final AC:  30 
+Final EV:  35 
+Final SH:  3 
+Final ENC:  38 
+Final ATT:  11 
+Final ATTSP:  19 
+Final SKAC:  16 
+Final SKEV:  16 
+Final SKSH:  0 
+Final Reward:  16.8
+Name:  dummy 
+Type:  0 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  1 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  2 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  3 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  3 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Final AC:  21 
+Final EV:  49 
+Final SH:  3 
+Final ENC:  67 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  21 
+Final SKEV:  14 
+Final SKSH:  16 
+Final Reward:  12.634408602150538
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  2 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  3 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  3 
+ATTSP:  1 
+ENC:  0
+Final AC:  45 
+Final EV:  42 
+Final SH:  3 
+Final ENC:  61 
+Final ATT:  3 
+Final ATTSP:  1 
+Final SKAC:  21 
+Final SKEV:  15 
+Final SKSH:  17 
+Final Reward:  20.189655172413794
+Name:  dummy 
+Type:  0 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  1 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  2 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  3 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  4 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  3 
+ATTSP:  8 
+ENC:  0
+Final AC:  29 
+Final EV:  56 
+Final SH:  0 
+Final ENC:  19 
+Final ATT:  3 
+Final ATTSP:  8 
+Final SKAC:  16 
+Final SKEV:  23 
+Final SKSH:  11 
+Final Reward:  39.266666666666666
+Name:  dummy 
+Type:  0 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  1 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  2 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  7 
+ATTSP:  18 
+ENC:  0
+Final AC:  37 
+Final EV:  41 
+Final SH:  0 
+Final ENC:  32 
+Final ATT:  7 
+Final ATTSP:  18 
+Final SKAC:  14 
+Final SKEV:  4 
+Final SKSH:  26 
+Final Reward:  12.127041742286751
+Name:  dummy 
+Type:  0 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  1 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  2 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  perfect 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  3 
+ATTSP:  1 
+ENC:  0
+Final AC:  48 
+Final EV:  65 
+Final SH:  0 
+Final ENC:  42 
+Final ATT:  3 
+Final ATTSP:  1 
+Final SKAC:  25 
+Final SKEV:  2 
+Final SKSH:  10 
+Final Reward:  21.058823529411764
+Name:  dummy 
+Type:  0 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  1 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  2 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  3 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  4 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Final AC:  13 
+Final EV:  58 
+Final SH:  0 
+Final ENC:  38 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  10 
+Final SKEV:  21 
+Final SKSH:  24 
+Final Reward:  21.0625
+Name:  dummy 
+Type:  0 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  perfect 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  4 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  13 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  9 
+ATTSP:  4 
+ENC:  0
+Final AC:  39 
+Final EV:  61 
+Final SH:  13 
+Final ENC:  50 
+Final ATT:  9 
+Final ATTSP:  4 
+Final SKAC:  24 
+Final SKEV:  13 
+Final SKSH:  18 
+Final Reward:  27.628947368421052
+Name:  dummy 
+Type:  0 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  1 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  4 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  17 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  9 
+ATTSP:  4 
+ENC:  0
+Final AC:  29 
+Final EV:  30 
+Final SH:  17 
+Final ENC:  23 
+Final ATT:  9 
+Final ATTSP:  4 
+Final SKAC:  2 
+Final SKEV:  12 
+Final SKSH:  7 
+Final Reward:  12.759183673469389
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  2 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  3 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  4 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  13 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Final AC:  36 
+Final EV:  76 
+Final SH:  13 
+Final ENC:  54 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  12 
+Final SKEV:  26 
+Final SKSH:  26 
+Final Reward:  34.324999999999996
+Name:  dummy 
+Type:  1 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  2 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  3 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  4 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  19 
+ATTSP:  14 
+ENC:  0
+Final AC:  32 
+Final EV:  53 
+Final SH:  0 
+Final ENC:  51 
+Final ATT:  19 
+Final ATTSP:  14 
+Final SKAC:  24 
+Final SKEV:  24 
+Final SKSH:  8 
+Final Reward:  27.76017316017316
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  2 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  4 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  17 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Final AC:  45 
+Final EV:  65 
+Final SH:  17 
+Final ENC:  38 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  25 
+Final SKEV:  1 
+Final SKSH:  4 
+Final Reward:  19.65625
+Name:  dummy 
+Type:  0 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  1 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  2 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  3 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  4 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  6 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  2 
+ATTSP:  11 
+ENC:  0
+Final AC:  60 
+Final EV:  60 
+Final SH:  6 
+Final ENC:  63 
+Final ATT:  2 
+Final ATTSP:  11 
+Final SKAC:  8 
+Final SKEV:  24 
+Final SKSH:  16 
+Final Reward:  22.818352059925093
+Name:  dummy 
+Type:  0 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  1 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  2 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  3 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  4 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  11 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Final AC:  18 
+Final EV:  59 
+Final SH:  11 
+Final ENC:  30 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  12 
+Final SKEV:  16 
+Final SKSH:  23 
+Final Reward:  25.232142857142858
+Name:  dummy 
+Type:  0 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  1 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  3 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  4 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  17 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  9 
+ATTSP:  4 
+ENC:  0
+Final AC:  16 
+Final EV:  40 
+Final SH:  17 
+Final ENC:  27 
+Final ATT:  9 
+Final ATTSP:  4 
+Final SKAC:  13 
+Final SKEV:  5 
+Final SKSH:  26 
+Final Reward:  17.837735849056603
+Name:  dummy 
+Type:  0 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  1 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  2 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  3 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  4 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  2 
+ATTSP:  11 
+ENC:  0
+Final AC:  21 
+Final EV:  71 
+Final SH:  0 
+Final ENC:  30 
+Final ATT:  2 
+Final ATTSP:  11 
+Final SKAC:  4 
+Final SKEV:  24 
+Final SKSH:  25 
+Final Reward:  32.095238095238095
+Name:  dummy 
+Type:  0 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  1 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  perfect 
+Type:  2 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  4 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  5 
+ATTSP:  4 
+ENC:  0
+Final AC:  25 
+Final EV:  37 
+Final SH:  0 
+Final ENC:  51 
+Final ATT:  5 
+Final ATTSP:  4 
+Final SKAC:  1 
+Final SKEV:  22 
+Final SKSH:  20 
+Final Reward:  11.896103896103895
+Name:  dummy 
+Type:  0 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  1 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  3 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  perfect 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  4 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Final AC:  49 
+Final EV:  56 
+Final SH:  4 
+Final ENC:  47 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  7 
+Final SKEV:  10 
+Final SKSH:  15 
+Final Reward:  13.191780821917808
+Name:  dummy 
+Type:  0 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  1 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  2 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  4 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  13 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  12 
+ATTSP:  16 
+ENC:  0
+Final AC:  47 
+Final EV:  33 
+Final SH:  13 
+Final ENC:  48 
+Final ATT:  12 
+Final ATTSP:  16 
+Final SKAC:  15 
+Final SKEV:  13 
+Final SKSH:  0 
+Final Reward:  16.030206677265504
+Name:  dummy 
+Type:  0 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  3 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  9 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  5 
+ATTSP:  4 
+ENC:  0
+Final AC:  35 
+Final EV:  31 
+Final SH:  9 
+Final ENC:  11 
+Final ATT:  5 
+Final ATTSP:  4 
+Final SKAC:  4 
+Final SKEV:  6 
+Final SKSH:  22 
+Final Reward:  15.162162162162161
+Name:  dummy 
+Type:  1 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  2 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  4 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  5 
+ATTSP:  4 
+ENC:  0
+Final AC:  39 
+Final EV:  28 
+Final SH:  4 
+Final ENC:  44 
+Final ATT:  5 
+Final ATTSP:  4 
+Final SKAC:  19 
+Final SKEV:  15 
+Final SKSH:  12 
+Final Reward:  18.271428571428572
+Name:  dummy 
+Type:  0 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  1 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  2 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  4 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  7 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  14 
+ATTSP:  19 
+ENC:  0
+Final AC:  15 
+Final EV:  53 
+Final SH:  7 
+Final ENC:  58 
+Final ATT:  14 
+Final ATTSP:  19 
+Final SKAC:  21 
+Final SKEV:  17 
+Final SKSH:  20 
+Final Reward:  16.84285714285714
+Name:  dummy 
+Type:  0 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  1 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  2 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  4 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  9 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  5 
+ATTSP:  4 
+ENC:  0
+Final AC:  52 
+Final EV:  34 
+Final SH:  9 
+Final ENC:  47 
+Final ATT:  5 
+Final ATTSP:  4 
+Final SKAC:  10 
+Final SKEV:  21 
+Final SKSH:  10 
+Final Reward:  19.136986301369863
+Name:  dummy 
+Type:  0 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  1 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  2 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  3 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  9 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Final AC:  78 
+Final EV:  67 
+Final SH:  9 
+Final ENC:  31 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  13 
+Final SKEV:  21 
+Final SKSH:  21 
+Final Reward:  45.78947368421053
+Name:  dummy 
+Type:  0 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  perfect 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  3 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  9 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  5 
+ATTSP:  4 
+ENC:  0
+Final AC:  62 
+Final EV:  76 
+Final SH:  9 
+Final ENC:  71 
+Final ATT:  5 
+Final ATTSP:  4 
+Final SKAC:  11 
+Final SKEV:  6 
+Final SKSH:  22 
+Final Reward:  14.77319587628866
+Name:  dummy 
+Type:  0 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  perfect 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  4 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  18 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Final AC:  29 
+Final EV:  31 
+Final SH:  18 
+Final ENC:  37 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  17 
+Final SKEV:  11 
+Final SKSH:  26 
+Final Reward:  20.666666666666664
+Name:  dummy 
+Type:  1 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  2 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  4 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  19 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  3 
+ATTSP:  2 
+ENC:  0
+Final AC:  14 
+Final EV:  35 
+Final SH:  19 
+Final ENC:  27 
+Final ATT:  3 
+Final ATTSP:  2 
+Final SKAC:  7 
+Final SKEV:  7 
+Final SKSH:  12 
+Final Reward:  11.773584905660378
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  2 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  3 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  4 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  17 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  3 
+ATTSP:  2 
+ENC:  0
+Final AC:  51 
+Final EV:  84 
+Final SH:  17 
+Final ENC:  63 
+Final ATT:  3 
+Final ATTSP:  2 
+Final SKAC:  24 
+Final SKEV:  8 
+Final SKSH:  24 
+Final Reward:  26.8876404494382
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  perfect 
+Type:  2 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  3 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  17 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Final AC:  75 
+Final EV:  64 
+Final SH:  17 
+Final ENC:  71 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  14 
+Final SKEV:  2 
+Final SKSH:  11 
+Final Reward:  14.072164948453608
+Name:  dummy 
+Type:  0 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  3 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  17 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  3 
+ATTSP:  2 
+ENC:  0
+Final AC:  45 
+Final EV:  25 
+Final SH:  17 
+Final ENC:  63 
+Final ATT:  3 
+Final ATTSP:  2 
+Final SKAC:  24 
+Final SKEV:  18 
+Final SKSH:  1 
+Final Reward:  18.382022471910112
+Name:  dummy 
+Type:  0 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  2 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  4 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  19 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  3 
+ATTSP:  2 
+ENC:  0
+Final AC:  37 
+Final EV:  44 
+Final SH:  19 
+Final ENC:  44 
+Final ATT:  3 
+Final ATTSP:  2 
+Final SKAC:  15 
+Final SKEV:  1 
+Final SKSH:  20 
+Final Reward:  14.985714285714284
+Name:  dummy 
+Type:  0 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  2 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  4 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  19 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  18 
+ATTSP:  3 
+ENC:  0
+Final AC:  18 
+Final EV:  43 
+Final SH:  19 
+Final ENC:  51 
+Final ATT:  18 
+Final ATTSP:  3 
+Final SKAC:  2 
+Final SKEV:  12 
+Final SKSH:  22 
+Final Reward:  17.097402597402596
+Name:  dummy 
+Type:  0 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  1 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  2 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  3 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Final AC:  31 
+Final EV:  46 
+Final SH:  0 
+Final ENC:  39 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  22 
+Final SKEV:  16 
+Final SKSH:  1 
+Final Reward:  21.815384615384616
+Name:  dummy 
+Type:  0 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  2 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  perfect 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  4 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Final AC:  67 
+Final EV:  44 
+Final SH:  0 
+Final ENC:  50 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  21 
+Final SKEV:  21 
+Final SKSH:  25 
+Final Reward:  30.67105263157895
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  2 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  3 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  3 
+ATTSP:  2 
+ENC:  0
+Final AC:  69 
+Final EV:  54 
+Final SH:  0 
+Final ENC:  64 
+Final ATT:  3 
+Final ATTSP:  2 
+Final SKAC:  12 
+Final SKEV:  3 
+Final SKSH:  24 
+Final Reward:  12.0
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  3 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  4 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  17 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Final AC:  31 
+Final EV:  50 
+Final SH:  17 
+Final ENC:  62 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  8 
+Final SKEV:  5 
+Final SKSH:  5 
+Final Reward:  6.625
+Name:  dummy 
+Type:  0 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  1 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  3 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  1 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  19 
+ATTSP:  18 
+ENC:  0
+Final AC:  30 
+Final EV:  26 
+Final SH:  1 
+Final ENC:  8 
+Final ATT:  19 
+Final ATTSP:  18 
+Final SKAC:  12 
+Final SKEV:  22 
+Final SKSH:  15 
+Final Reward:  28.85294117647059
+Name:  dummy 
+Type:  0 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  1 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  2 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  perfect 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  4 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  12 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  8 
+ATTSP:  3 
+ENC:  0
+Final AC:  57 
+Final EV:  60 
+Final SH:  12 
+Final ENC:  81 
+Final ATT:  8 
+Final ATTSP:  3 
+Final SKAC:  25 
+Final SKEV:  5 
+Final SKSH:  26 
+Final Reward:  21.037383177570092
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  perfect 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  perfect 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  4 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  6 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  8 
+ATTSP:  3 
+ENC:  0
+Final AC:  86 
+Final EV:  74 
+Final SH:  6 
+Final ENC:  82 
+Final ATT:  8 
+Final ATTSP:  3 
+Final SKAC:  2 
+Final SKEV:  24 
+Final SKSH:  12 
+Final Reward:  20.703703703703702
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  2 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  3 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  12 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  8 
+ATTSP:  3 
+ENC:  0
+Final AC:  32 
+Final EV:  51 
+Final SH:  12 
+Final ENC:  45 
+Final ATT:  8 
+Final ATTSP:  3 
+Final SKAC:  3 
+Final SKEV:  7 
+Final SKSH:  17 
+Final Reward:  11.253521126760564
+Name:  dummy 
+Type:  0 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  perfect 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  4 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  1 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  4 
+ATTSP:  10 
+ENC:  0
+Final AC:  62 
+Final EV:  54 
+Final SH:  1 
+Final ENC:  69 
+Final ATT:  4 
+Final ATTSP:  10 
+Final SKAC:  10 
+Final SKEV:  4 
+Final SKSH:  13 
+Final Reward:  9.300478468899522
+Name:  dummy 
+Type:  0 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  1 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  2 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  perfect 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  4 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  14 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  18 
+ATTSP:  4 
+ENC:  0
+Final AC:  49 
+Final EV:  54 
+Final SH:  14 
+Final ENC:  52 
+Final ATT:  18 
+Final ATTSP:  4 
+Final SKAC:  26 
+Final SKEV:  5 
+Final SKSH:  3 
+Final Reward:  23.933333333333334
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  perfect 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  3 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  4 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  13 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  19 
+ATTSP:  18 
+ENC:  0
+Final AC:  65 
+Final EV:  69 
+Final SH:  13 
+Final ENC:  80 
+Final ATT:  19 
+Final ATTSP:  18 
+Final SKAC:  21 
+Final SKEV:  9 
+Final SKSH:  2 
+Final Reward:  19.9811320754717
+Name:  dummy 
+Type:  1 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  3 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  1 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  8 
+ATTSP:  3 
+ENC:  0
+Final AC:  31 
+Final EV:  25 
+Final SH:  1 
+Final ENC:  37 
+Final ATT:  8 
+Final ATTSP:  3 
+Final SKAC:  2 
+Final SKEV:  2 
+Final SKSH:  9 
+Final Reward:  3.9206349206349205
+Name:  dummy 
+Type:  0 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  2 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  3 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  8 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Final AC:  20 
+Final EV:  10 
+Final SH:  8 
+Final ENC:  45 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  13 
+Final SKEV:  19 
+Final SKSH:  20 
+Final Reward:  8.591549295774648
+Name:  dummy 
+Type:  0 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  1 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  2 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  4 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  14 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  8 
+ATTSP:  3 
+ENC:  0
+Final AC:  58 
+Final EV:  32 
+Final SH:  14 
+Final ENC:  78 
+Final ATT:  8 
+Final ATTSP:  3 
+Final SKAC:  5 
+Final SKEV:  26 
+Final SKSH:  24 
+Final Reward:  16.01923076923077
+Name:  dummy 
+Type:  1 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  2 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  perfect 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  4 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  10 
+ATTSP:  12 
+ENC:  0
+Final AC:  39 
+Final EV:  38 
+Final SH:  0 
+Final ENC:  46 
+Final ATT:  10 
+Final ATTSP:  12 
+Final SKAC:  13 
+Final SKEV:  8 
+Final SKSH:  5 
+Final Reward:  12.03311965811966
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  3 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  4 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  4 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  10 
+ATTSP:  12 
+ENC:  0
+Final AC:  42 
+Final EV:  31 
+Final SH:  4 
+Final ENC:  40 
+Final ATT:  10 
+Final ATTSP:  12 
+Final SKAC:  23 
+Final SKEV:  18 
+Final SKSH:  4 
+Final Reward:  24.102564102564102
+Name:  dummy 
+Type:  1 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  2 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  3 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  4 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  9 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Final AC:  31 
+Final EV:  37 
+Final SH:  9 
+Final ENC:  73 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  25 
+Final SKEV:  6 
+Final SKSH:  21 
+Final Reward:  11.97979797979798
+Name:  dummy 
+Type:  0 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  1 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  2 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  3 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  4 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  1 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  13 
+ATTSP:  5 
+ENC:  0
+Final AC:  53 
+Final EV:  41 
+Final SH:  1 
+Final ENC:  52 
+Final ATT:  13 
+Final ATTSP:  5 
+Final SKAC:  15 
+Final SKEV:  1 
+Final SKSH:  5 
+Final Reward:  12.948717948717949
+Name:  dummy 
+Type:  0 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  1 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  2 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  11 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Final AC:  6 
+Final EV:  19 
+Final SH:  11 
+Final ENC:  59 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  8 
+Final SKEV:  3 
+Final SKSH:  10 
+Final Reward:  2.5294117647058822
+Name:  dummy 
+Type:  1 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  2 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  perfect 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  4 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  1 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  13 
+ATTSP:  1 
+ENC:  0
+Final AC:  36 
+Final EV:  41 
+Final SH:  1 
+Final ENC:  45 
+Final ATT:  13 
+Final ATTSP:  1 
+Final SKAC:  9 
+Final SKEV:  25 
+Final SKSH:  5 
+Final Reward:  25.570422535211268
+Name:  dummy 
+Type:  0 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  1 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  2 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  3 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  4 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  4 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  10 
+ATTSP:  12 
+ENC:  0
+Final AC:  56 
+Final EV:  55 
+Final SH:  4 
+Final ENC:  57 
+Final ATT:  10 
+Final ATTSP:  12 
+Final SKAC:  15 
+Final SKEV:  6 
+Final SKSH:  9 
+Final Reward:  15.29935125115848
+Name:  dummy 
+Type:  0 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  1 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  2 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  3 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  4 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  11 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  6 
+ATTSP:  18 
+ENC:  0
+Final AC:  40 
+Final EV:  58 
+Final SH:  11 
+Final ENC:  68 
+Final ATT:  6 
+Final ATTSP:  18 
+Final SKAC:  23 
+Final SKEV:  13 
+Final SKSH:  20 
+Final Reward:  20.464725643896973
+Name:  dummy 
+Type:  0 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  1 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  2 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  3 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  13 
+ATTSP:  5 
+ENC:  0
+Final AC:  32 
+Final EV:  27 
+Final SH:  0 
+Final ENC:  57 
+Final ATT:  13 
+Final ATTSP:  5 
+Final SKAC:  10 
+Final SKEV:  1 
+Final SKSH:  9 
+Final Reward:  6.347389558232932
+Name:  dummy 
+Type:  0 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  1 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  2 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  3 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  4 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  4 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  7 
+ATTSP:  3 
+ENC:  0
+Final AC:  28 
+Final EV:  33 
+Final SH:  4 
+Final ENC:  71 
+Final ATT:  7 
+Final ATTSP:  3 
+Final SKAC:  9 
+Final SKEV:  13 
+Final SKSH:  26 
+Final Reward:  9.842783505154639
+Name:  dummy 
+Type:  1 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  perfect 
+Type:  2 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  3 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  perfect 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  6 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  3 
+ATTSP:  14 
+ENC:  0
+Final AC:  65 
+Final EV:  47 
+Final SH:  6 
+Final ENC:  66 
+Final ATT:  3 
+Final ATTSP:  14 
+Final SKAC:  9 
+Final SKEV:  19 
+Final SKSH:  24 
+Final Reward:  17.830434782608695
+Name:  dummy 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  1 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  2 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  3 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  perfect 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  7 
+ATTSP:  0 
+ENC:  0
+Final AC:  50 
+Final EV:  63 
+Final SH:  0 
+Final ENC:  64 
+Final ATT:  7 
+Final ATTSP:  0 
+Final SKAC:  22 
+Final SKEV:  24 
+Final SKSH:  14 
+Final Reward:  36.022222222222226
+Name:  dummy 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  1 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  perfect 
+Type:  2 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  perfect 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  4 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  14 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  18 
+ATTSP:  16 
+ENC:  0
+Final AC:  61 
+Final EV:  51 
+Final SH:  14 
+Final ENC:  70 
+Final ATT:  18 
+Final ATTSP:  16 
+Final SKAC:  21 
+Final SKEV:  13 
+Final SKSH:  5 
+Final Reward:  22.037990196078432
+Name:  dummy 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  1 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  2 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  3 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  perfect 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  6 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  7 
+ATTSP:  0 
+ENC:  0
+Final AC:  59 
+Final EV:  50 
+Final SH:  6 
+Final ENC:  69 
+Final ATT:  7 
+Final ATTSP:  0 
+Final SKAC:  4 
+Final SKEV:  1 
+Final SKSH:  25 
+Final Reward:  11.589473684210526
+Name:  dummy 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  1 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  2 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  3 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  4 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  18 
+ATTSP:  16 
+ENC:  0
+Final AC:  43 
+Final EV:  40 
+Final SH:  0 
+Final ENC:  52 
+Final ATT:  18 
+Final ATTSP:  16 
+Final SKAC:  12 
+Final SKEV:  5 
+Final SKSH:  25 
+Final Reward:  10.238310708898943
+Name:  dummy 
+Type:  1 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  2 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  4 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  13 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Final AC:  34 
+Final EV:  34 
+Final SH:  13 
+Final ENC:  33 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  5 
+Final SKEV:  1 
+Final SKSH:  17 
+Final Reward:  7.203389830508474
+Name:  dummy 
+Type:  0 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  perfect 
+Type:  2 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  3 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  4 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  13 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  18 
+ATTSP:  16 
+ENC:  0
+Final AC:  37 
+Final EV:  38 
+Final SH:  13 
+Final ENC:  67 
+Final ATT:  18 
+Final ATTSP:  16 
+Final SKAC:  4 
+Final SKEV:  6 
+Final SKSH:  11 
+Final Reward:  6.639468690702087
+Name:  dummy 
+Type:  1 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  11 
+ATTSP:  8 
+ENC:  0
+Final AC:  4 
+Final EV:  2 
+Final SH:  0 
+Final ENC:  7 
+Final ATT:  11 
+Final ATTSP:  8 
+Final SKAC:  7 
+Final SKEV:  5 
+Final SKSH:  8 
+Final Reward:  2.3737373737373737
+Name:  dummy 
+Type:  1 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  2 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  3 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  perfect 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  13 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  17 
+ATTSP:  15 
+ENC:  0
+Final AC:  42 
+Final EV:  34 
+Final SH:  13 
+Final ENC:  58 
+Final ATT:  17 
+Final ATTSP:  15 
+Final SKAC:  22 
+Final SKEV:  0 
+Final SKSH:  18 
+Final Reward:  14.848214285714285
+Name:  dummy 
+Type:  0 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  1 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  2 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  3 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  4 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  10 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  8 
+ATTSP:  7 
+ENC:  0
+Final AC:  40 
+Final EV:  40 
+Final SH:  10 
+Final ENC:  51 
+Final ATT:  8 
+Final ATTSP:  7 
+Final SKAC:  16 
+Final SKEV:  12 
+Final SKSH:  11 
+Final Reward:  16.974025974025977
+Name:  dummy 
+Type:  0 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  1 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  2 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  3 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  14 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  6 
+ATTSP:  12 
+ENC:  0
+Final AC:  53 
+Final EV:  46 
+Final SH:  14 
+Final ENC:  42 
+Final ATT:  6 
+Final ATTSP:  12 
+Final SKAC:  16 
+Final SKEV:  17 
+Final SKSH:  20 
+Final Reward:  28.549773755656105
+Name:  dummy 
+Type:  0 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  1 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  2 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  3 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  4 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  11 
+ATTSP:  16 
+ENC:  0
+Final AC:  55 
+Final EV:  57 
+Final SH:  0 
+Final ENC:  44 
+Final ATT:  11 
+Final ATTSP:  16 
+Final SKAC:  8 
+Final SKEV:  26 
+Final SKSH:  10 
+Final Reward:  28.10420168067227
+Name:  dummy 
+Type:  1 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  2 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  3 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  4 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  19 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  5 
+ATTSP:  10 
+ENC:  0
+Final AC:  45 
+Final EV:  52 
+Final SH:  19 
+Final ENC:  41 
+Final ATT:  5 
+Final ATTSP:  10 
+Final SKAC:  16 
+Final SKEV:  10 
+Final SKSH:  11 
+Final Reward:  22.08141112618724
+Name:  dummy 
+Type:  3 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  perfect 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  3 
+ATTSP:  17 
+ENC:  0
+Final AC:  35 
+Final EV:  19 
+Final SH:  0 
+Final ENC:  19 
+Final ATT:  3 
+Final ATTSP:  17 
+Final SKAC:  22 
+Final SKEV:  3 
+Final SKSH:  8 
+Final Reward:  18.544444444444444
+Name:  dummy 
+Type:  2 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  3 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  4 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  11 
+ATTSP:  16 
+ENC:  0
+Final AC:  30 
+Final EV:  31 
+Final SH:  0 
+Final ENC:  24 
+Final ATT:  11 
+Final ATTSP:  16 
+Final SKAC:  24 
+Final SKEV:  19 
+Final SKSH:  24 
+Final Reward:  26.827058823529413
+Name:  dummy 
+Type:  0 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  1 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  2 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  3 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  4 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  6 
+ATTSP:  12 
+ENC:  0
+Final AC:  48 
+Final EV:  78 
+Final SH:  0 
+Final ENC:  47 
+Final ATT:  6 
+Final ATTSP:  12 
+Final SKAC:  1 
+Final SKEV:  18 
+Final SKSH:  25 
+Final Reward:  20.35194942044257
+Name:  dummy 
+Type:  1 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  2 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  3 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  4 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  19 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Final AC:  31 
+Final EV:  37 
+Final SH:  19 
+Final ENC:  34 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  15 
+Final SKEV:  22 
+Final SKSH:  25 
+Final Reward:  29.233333333333334
+Name:  dummy 
+Type:  0 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  1 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  2 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  perfect 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  4 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  15 
+ATTSP:  14 
+ENC:  0
+Final AC:  64 
+Final EV:  74 
+Final SH:  0 
+Final ENC:  50 
+Final ATT:  15 
+Final ATTSP:  14 
+Final SKAC:  9 
+Final SKEV:  3 
+Final SKSH:  4 
+Final Reward:  11.5
+Name:  dummy 
+Type:  0 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  2 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  3 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  4 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  19 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  3 
+ATTSP:  8 
+ENC:  0
+Final AC:  31 
+Final EV:  44 
+Final SH:  19 
+Final ENC:  44 
+Final ATT:  3 
+Final ATTSP:  8 
+Final SKAC:  22 
+Final SKEV:  9 
+Final SKSH:  17 
+Final Reward:  20.347619047619045
+Name:  dummy 
+Type:  0 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  2 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  3 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  4 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  14 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  9 
+ATTSP:  15 
+ENC:  0
+Final AC:  32 
+Final EV:  63 
+Final SH:  14 
+Final ENC:  46 
+Final ATT:  9 
+Final ATTSP:  15 
+Final SKAC:  1 
+Final SKEV:  26 
+Final SKSH:  11 
+Final Reward:  25.895833333333332
+Name:  dummy 
+Type:  0 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  1 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  2 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  3 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  4 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  3 
+ATTSP:  10 
+ENC:  0
+Final AC:  38 
+Final EV:  59 
+Final SH:  0 
+Final ENC:  50 
+Final ATT:  3 
+Final ATTSP:  10 
+Final SKAC:  6 
+Final SKEV:  24 
+Final SKSH:  3 
+Final Reward:  21.904306220095695
+Name:  dummy 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  2 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  3 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  4 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  7 
+ATTSP:  4 
+ENC:  0
+Final AC:  45 
+Final EV:  58 
+Final SH:  0 
+Final ENC:  58 
+Final ATT:  7 
+Final ATTSP:  4 
+Final SKAC:  14 
+Final SKEV:  26 
+Final SKSH:  8 
+Final Reward:  26.85238095238095
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  3 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  4 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  16 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  7 
+ATTSP:  4 
+ENC:  0
+Final AC:  51 
+Final EV:  33 
+Final SH:  16 
+Final ENC:  42 
+Final ATT:  7 
+Final ATTSP:  4 
+Final SKAC:  13 
+Final SKEV:  24 
+Final SKSH:  0 
+Final Reward:  22.79705882352941
+Name:  dummy 
+Type:  0 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  3 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  4 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  3 
+ATTSP:  10 
+ENC:  0
+Final AC:  35 
+Final EV:  54 
+Final SH:  0 
+Final ENC:  39 
+Final ATT:  3 
+Final ATTSP:  10 
+Final SKAC:  14 
+Final SKEV:  19 
+Final SKSH:  25 
+Final Reward:  23.5958041958042
+Name:  dummy 
+Type:  0 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  1 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  perfect 
+Type:  2 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  3 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  4 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  5 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  7 
+ATTSP:  4 
+ENC:  0
+Final AC:  46 
+Final EV:  68 
+Final SH:  5 
+Final ENC:  43 
+Final ATT:  7 
+Final ATTSP:  4 
+Final SKAC:  10 
+Final SKEV:  20 
+Final SKSH:  4 
+Final Reward:  28.06666666666667
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  3 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  4 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  13 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  15 
+ATTSP:  3 
+ENC:  0
+Final AC:  42 
+Final EV:  52 
+Final SH:  13 
+Final ENC:  39 
+Final ATT:  15 
+Final ATTSP:  3 
+Final SKAC:  4 
+Final SKEV:  24 
+Final SKSH:  12 
+Final Reward:  27.93461538461539
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  3 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  4 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  5 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  19 
+ATTSP:  3 
+ENC:  0
+Final AC:  37 
+Final EV:  71 
+Final SH:  5 
+Final ENC:  59 
+Final ATT:  19 
+Final ATTSP:  3 
+Final SKAC:  3 
+Final SKEV:  24 
+Final SKSH:  9 
+Final Reward:  26.63235294117647
+Name:  dummy 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  1 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  2 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  3 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  4 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  9 
+ATTSP:  13 
+ENC:  0
+Final AC:  45 
+Final EV:  61 
+Final SH:  0 
+Final ENC:  68 
+Final ATT:  9 
+Final ATTSP:  13 
+Final SKAC:  16 
+Final SKEV:  18 
+Final SKSH:  12 
+Final Reward:  19.983282674772035
+Name:  dummy 
+Type:  0 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  1 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  2 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  3 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  7 
+ATTSP:  4 
+ENC:  0
+Final AC:  32 
+Final EV:  37 
+Final SH:  0 
+Final ENC:  39 
+Final ATT:  7 
+Final ATTSP:  4 
+Final SKAC:  13 
+Final SKEV:  5 
+Final SKSH:  15 
+Final Reward:  10.646153846153847
+Name:  dummy 
+Type:  0 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  1 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  3 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  4 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  13 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  3 
+ATTSP:  10 
+ENC:  0
+Final AC:  33 
+Final EV:  37 
+Final SH:  13 
+Final ENC:  30 
+Final ATT:  3 
+Final ATTSP:  10 
+Final SKAC:  18 
+Final SKEV:  1 
+Final SKSH:  18 
+Final Reward:  15.719155844155846
+Name:  dummy 
+Type:  0 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  1 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  2 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  3 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  4 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  13 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  13 
+ATTSP:  6 
+ENC:  0
+Final AC:  37 
+Final EV:  47 
+Final SH:  13 
+Final ENC:  69 
+Final ATT:  13 
+Final ATTSP:  6 
+Final SKAC:  18 
+Final SKEV:  6 
+Final SKSH:  26 
+Final Reward:  15.393984962406016
+Name:  dummy 
+Type:  0 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  1 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  2 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  3 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  4 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  13 
+ATTSP:  6 
+ENC:  0
+Final AC:  40 
+Final EV:  63 
+Final SH:  0 
+Final ENC:  50 
+Final ATT:  13 
+Final ATTSP:  6 
+Final SKAC:  3 
+Final SKEV:  25 
+Final SKSH:  4 
+Final Reward:  24.159774436090228
+Name:  dummy 
+Type:  0 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  1 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  2 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  3 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  4 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  3 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Final AC:  20 
+Final EV:  54 
+Final SH:  3 
+Final ENC:  52 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  1 
+Final SKEV:  6 
+Final SKSH:  17 
+Final Reward:  5.064102564102565
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  2 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  4 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  5 
+ATTSP:  14 
+ENC:  0
+Final AC:  47 
+Final EV:  58 
+Final SH:  0 
+Final ENC:  47 
+Final ATT:  5 
+Final ATTSP:  14 
+Final SKAC:  24 
+Final SKEV:  26 
+Final SKSH:  19 
+Final Reward:  36.44292237442922
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  2 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  3 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  4 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  3 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  17 
+ATTSP:  5 
+ENC:  0
+Final AC:  46 
+Final EV:  52 
+Final SH:  3 
+Final ENC:  69 
+Final ATT:  17 
+Final ATTSP:  5 
+Final SKAC:  4 
+Final SKEV:  5 
+Final SKSH:  15 
+Final Reward:  7.980701754385964
+Name:  dummy 
+Type:  0 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  1 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  2 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  3 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  4 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  13 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  13 
+ATTSP:  6 
+ENC:  0
+Final AC:  57 
+Final EV:  44 
+Final SH:  13 
+Final ENC:  54 
+Final ATT:  13 
+Final ATTSP:  6 
+Final SKAC:  11 
+Final SKEV:  8 
+Final SKSH:  25 
+Final Reward:  18.15714285714286
+Name:  dummy 
+Type:  1 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  2 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  4 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  13 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  9 
+ATTSP:  16 
+ENC:  0
+Final AC:  35 
+Final EV:  35 
+Final SH:  13 
+Final ENC:  49 
+Final ATT:  9 
+Final ATTSP:  16 
+Final SKAC:  8 
+Final SKEV:  14 
+Final SKSH:  26 
+Final Reward:  15.302745098039216
+Name:  dummy 
+Type:  0 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  1 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  3 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  4 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  17 
+ATTSP:  5 
+ENC:  0
+Final AC:  14 
+Final EV:  22 
+Final SH:  0 
+Final ENC:  44 
+Final ATT:  17 
+Final ATTSP:  5 
+Final SKAC:  24 
+Final SKEV:  6 
+Final SKSH:  17 
+Final Reward:  9.519047619047619
+Name:  dummy 
+Type:  0 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  1 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  2 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  3 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  4 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  3 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  17 
+ATTSP:  5 
+ENC:  0
+Final AC:  51 
+Final EV:  51 
+Final SH:  3 
+Final ENC:  63 
+Final ATT:  17 
+Final ATTSP:  5 
+Final SKAC:  16 
+Final SKEV:  11 
+Final SKSH:  25 
+Final Reward:  19.147940074906362
+Name:  dummy 
+Type:  0 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  1 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  2 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  4 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  9 
+ATTSP:  16 
+ENC:  0
+Final AC:  77 
+Final EV:  49 
+Final SH:  0 
+Final ENC:  47 
+Final ATT:  9 
+Final ATTSP:  16 
+Final SKAC:  17 
+Final SKEV:  5 
+Final SKSH:  25 
+Final Reward:  21.817082997582595
+Name:  dummy 
+Type:  0 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  1 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  2 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  3 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  16 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  9 
+ATTSP:  19 
+ENC:  0
+Final AC:  32 
+Final EV:  26 
+Final SH:  16 
+Final ENC:  70 
+Final ATT:  9 
+Final ATTSP:  19 
+Final SKAC:  26 
+Final SKEV:  5 
+Final SKSH:  12 
+Final Reward:  12.470833333333331
+Name:  dummy 
+Type:  0 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  1 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  2 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  3 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  16 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  9 
+ATTSP:  11 
+ENC:  0
+Final AC:  71 
+Final EV:  30 
+Final SH:  16 
+Final ENC:  65 
+Final ATT:  9 
+Final ATTSP:  11 
+Final SKAC:  24 
+Final SKEV:  5 
+Final SKSH:  21 
+Final Reward:  24.81593406593407
+Name:  perfect 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  3 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  perfect 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  8 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  9 
+ATTSP:  13 
+ENC:  0
+Final AC:  63 
+Final EV:  42 
+Final SH:  8 
+Final ENC:  70 
+Final ATT:  9 
+Final ATTSP:  13 
+Final SKAC:  6 
+Final SKEV:  20 
+Final SKSH:  8 
+Final Reward:  13.997023809523808
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  perfect 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  4 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  14 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Final AC:  92 
+Final EV:  58 
+Final SH:  14 
+Final ENC:  93 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  15 
+Final SKEV:  18 
+Final SKSH:  19 
+Final Reward:  22.60504201680672
+Name:  dummy 
+Type:  0 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  1 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  2 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  perfect 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  9 
+ATTSP:  19 
+ENC:  0
+Final AC:  54 
+Final EV:  42 
+Final SH:  0 
+Final ENC:  43 
+Final ATT:  9 
+Final ATTSP:  19 
+Final SKAC:  20 
+Final SKEV:  5 
+Final SKSH:  7 
+Final Reward:  19.145652173913042
+Name:  dummy 
+Type:  1 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  2 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  3 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  perfect 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  12 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  9 
+ATTSP:  11 
+ENC:  0
+Final AC:  50 
+Final EV:  55 
+Final SH:  12 
+Final ENC:  68 
+Final ATT:  9 
+Final ATTSP:  11 
+Final SKAC:  9 
+Final SKEV:  4 
+Final SKSH:  24 
+Final Reward:  10.941489361702128
+Name:  dummy 
+Type:  0 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  perfect 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  3 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  10 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Final AC:  58 
+Final EV:  54 
+Final SH:  10 
+Final ENC:  56 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  9 
+Final SKEV:  25 
+Final SKSH:  7 
+Final Reward:  23.682926829268297
+Name:  dummy 
+Type:  0 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  1 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  2 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  3 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  14 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  3 
+ATTSP:  19 
+ENC:  0
+Final AC:  34 
+Final EV:  33 
+Final SH:  14 
+Final ENC:  54 
+Final ATT:  3 
+Final ATTSP:  19 
+Final SKAC:  10 
+Final SKEV:  2 
+Final SKSH:  3 
+Final Reward:  5.750000000000001
+Name:  dummy 
+Type:  0 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  perfect 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  3 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  15 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  9 
+ATTSP:  11 
+ENC:  0
+Final AC:  52 
+Final EV:  48 
+Final SH:  15 
+Final ENC:  54 
+Final ATT:  9 
+Final ATTSP:  11 
+Final SKAC:  19 
+Final SKEV:  4 
+Final SKSH:  13 
+Final Reward:  17.9375
+Name:  dummy 
+Type:  0 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  1 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  2 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  perfect 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  perfect 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  2 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  9 
+ATTSP:  19 
+ENC:  0
+Final AC:  72 
+Final EV:  56 
+Final SH:  2 
+Final ENC:  99 
+Final ATT:  9 
+Final ATTSP:  19 
+Final SKAC:  26 
+Final SKEV:  2 
+Final SKSH:  22 
+Final Reward:  16.674
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  2 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  3 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  4 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  8 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Final AC:  69 
+Final EV:  52 
+Final SH:  8 
+Final ENC:  52 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  11 
+Final SKEV:  15 
+Final SKSH:  10 
+Final Reward:  20.756410256410255
+Name:  dummy 
+Type:  0 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  1 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  2 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  4 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Final AC:  27 
+Final EV:  60 
+Final SH:  0 
+Final ENC:  37 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  4 
+Final SKEV:  0 
+Final SKSH:  26 
+Final Reward:  1.7142857142857142
+Name:  dummy 
+Type:  0 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  1 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  2 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  3 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  4 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  19 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  10 
+ATTSP:  10 
+ENC:  0
+Final AC:  15 
+Final EV:  69 
+Final SH:  19 
+Final ENC:  66 
+Final ATT:  10 
+Final ATTSP:  10 
+Final SKAC:  20 
+Final SKEV:  8 
+Final SKSH:  3 
+Final Reward:  10.789525691699605
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  2 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  3 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  4 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  17 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Final AC:  43 
+Final EV:  59 
+Final SH:  17 
+Final ENC:  80 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  1 
+Final SKEV:  12 
+Final SKSH:  22 
+Final Reward:  10.61320754716981
+Name:  dummy 
+Type:  0 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  perfect 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  3 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  4 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  19 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Final AC:  66 
+Final EV:  68 
+Final SH:  19 
+Final ENC:  73 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  26 
+Final SKEV:  18 
+Final SKSH:  0 
+Final Reward:  29.6969696969697
+Name:  dummy 
+Type:  0 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  1 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  2 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  4 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  12 
+ATTSP:  9 
+ENC:  0
+Final AC:  28 
+Final EV:  49 
+Final SH:  0 
+Final ENC:  54 
+Final ATT:  12 
+Final ATTSP:  9 
+Final SKAC:  7 
+Final SKEV:  17 
+Final SKSH:  18 
+Final Reward:  14.0625
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  2 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  4 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  19 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Final AC:  53 
+Final EV:  56 
+Final SH:  19 
+Final ENC:  64 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  11 
+Final SKEV:  23 
+Final SKSH:  26 
+Final Reward:  26.277777777777775
+Name:  dummy 
+Type:  1 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  2 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  3 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  4 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  6 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Final AC:  37 
+Final EV:  39 
+Final SH:  6 
+Final ENC:  46 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  3 
+Final SKEV:  16 
+Final SKSH:  25 
+Final Reward:  12.291666666666664
+Name:  dummy 
+Type:  0 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  perfect 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  3 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  4 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  17 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  7 
+ATTSP:  10 
+ENC:  0
+Final AC:  56 
+Final EV:  60 
+Final SH:  17 
+Final ENC:  62 
+Final ATT:  7 
+Final ATTSP:  10 
+Final SKAC:  8 
+Final SKEV:  19 
+Final SKSH:  2 
+Final Reward:  19.06818181818182
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  2 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  4 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  10 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Final AC:  53 
+Final EV:  50 
+Final SH:  10 
+Final ENC:  67 
+Final ATT:  0 
+Final ATTSP:  0 
+Final SKAC:  17 
+Final SKEV:  0 
+Final SKSH:  20 
+Final Reward:  11.838709677419354
