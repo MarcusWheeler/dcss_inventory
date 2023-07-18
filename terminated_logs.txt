@@ -1,0 +1,1990 @@
+Name:  dummy 
+Type:  0 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  1 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  2 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  3 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  4 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  1 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  6 
+ATTSP:  5 
+ENC:  0
+Final AC:  78 
+Final EV:  59 
+Final SH:  1 
+Final ENC:  68 
+Final ATT:  6 
+Final ATTSP:  5
+Name:  dummy 
+Type:  0 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  1 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  2 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  3 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  6 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  19 
+ATTSP:  0 
+ENC:  0
+Final AC:  42 
+Final EV:  19 
+Final SH:  6 
+Final ENC:  54 
+Final ATT:  19 
+Final ATTSP:  0
+Name:  dummy 
+Type:  0 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  1 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  2 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  3 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  perfect 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  4 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  2 
+ENC:  0
+Final AC:  60 
+Final EV:  42 
+Final SH:  4 
+Final ENC:  76 
+Final ATT:  0 
+Final ATTSP:  2
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  3 
+AC:  3 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  4 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  13 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  17 
+ATTSP:  12 
+ENC:  0
+Final AC:  52 
+Final EV:  72 
+Final SH:  13 
+Final ENC:  48 
+Final ATT:  17 
+Final ATTSP:  12
+Name:  dummy 
+Type:  0 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  1 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  2 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  3 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  4 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  6 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  4 
+ATTSP:  10 
+ENC:  0
+Final AC:  31 
+Final EV:  33 
+Final SH:  6 
+Final ENC:  81 
+Final ATT:  4 
+Final ATTSP:  10
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  2 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  3 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  4 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  11 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  15 
+ATTSP:  4 
+ENC:  0
+Final AC:  56 
+Final EV:  79 
+Final SH:  11 
+Final ENC:  70 
+Final ATT:  15 
+Final ATTSP:  4
+Name:  dummy 
+Type:  0 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  1 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  2 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  3 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  4 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  4 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  15 
+ATTSP:  13 
+ENC:  0
+Final AC:  17 
+Final EV:  39 
+Final SH:  4 
+Final ENC:  42 
+Final ATT:  15 
+Final ATTSP:  13
+Name:  dummy 
+Type:  0 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  1 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  2 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  3 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  4 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  19 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  1 
+ATTSP:  16 
+ENC:  0
+Final AC:  51 
+Final EV:  45 
+Final SH:  19 
+Final ENC:  57 
+Final ATT:  1 
+Final ATTSP:  16
+Name:  dummy 
+Type:  0 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  1 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  3 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  4 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  14 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  4 
+ATTSP:  10 
+ENC:  0
+Final AC:  35 
+Final EV:  35 
+Final SH:  14 
+Final ENC:  56 
+Final ATT:  4 
+Final ATTSP:  10
+Name:  dummy 
+Type:  0 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  1 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  2 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  3 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  4 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  6 
+ATTSP:  14 
+ENC:  0
+Final AC:  49 
+Final EV:  60 
+Final SH:  0 
+Final ENC:  46 
+Final ATT:  6 
+Final ATTSP:  14
+Name:  dummy 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  1 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  2 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  perfect 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  4 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  2 
+ENC:  0
+Final AC:  62 
+Final EV:  60 
+Final SH:  4 
+Final ENC:  61 
+Final ATT:  0 
+Final ATTSP:  2
+Name:  dummy 
+Type:  1 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  2 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  3 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  perfect 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  8 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Final AC:  53 
+Final EV:  44 
+Final SH:  8 
+Final ENC:  65 
+Final ATT:  0 
+Final ATTSP:  0
+Name:  dummy 
+Type:  1 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  2 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  3 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  4 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  11 
+ATTSP:  4 
+ENC:  0
+Final AC:  29 
+Final EV:  52 
+Final SH:  0 
+Final ENC:  50 
+Final ATT:  11 
+Final ATTSP:  4
+Name:  dummy 
+Type:  0 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  2 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  3 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  4 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  2 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  16 
+ATTSP:  19 
+ENC:  0
+Final AC:  65 
+Final EV:  35 
+Final SH:  2 
+Final ENC:  66 
+Final ATT:  16 
+Final ATTSP:  19
+Name:  dummy 
+Type:  1 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  2 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  3 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  perfect 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  5 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  19 
+ATTSP:  2 
+ENC:  0
+Final AC:  53 
+Final EV:  37 
+Final SH:  5 
+Final ENC:  59 
+Final ATT:  19 
+Final ATTSP:  2
+Name:  dummy 
+Type:  0 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  perfect 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  3 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  4 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  8 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Final AC:  73 
+Final EV:  60 
+Final SH:  8 
+Final ENC:  87 
+Final ATT:  0 
+Final ATTSP:  0
+Name:  dummy 
+Type:  0 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  1 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  2 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  3 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  4 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  13 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Final AC:  39 
+Final EV:  51 
+Final SH:  13 
+Final ENC:  52 
+Final ATT:  0 
+Final ATTSP:  0
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  2 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  4 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  11 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  15 
+ATTSP:  4 
+ENC:  0
+Final AC:  40 
+Final EV:  66 
+Final SH:  11 
+Final ENC:  77 
+Final ATT:  15 
+Final ATTSP:  4
+Name:  dummy 
+Type:  0 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  1 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  2 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  7
+Name:  dummy 
+Type:  3 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  4 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  18 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  2 
+ENC:  0
+Final AC:  27 
+Final EV:  18 
+Final SH:  18 
+Final ENC:  52 
+Final ATT:  0 
+Final ATTSP:  2
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  perfect 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  3 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  4 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  7 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  18 
+ATTSP:  9 
+ENC:  0
+Final AC:  46 
+Final EV:  80 
+Final SH:  7 
+Final ENC:  81 
+Final ATT:  18 
+Final ATTSP:  9
+Name:  dummy 
+Type:  0 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  2 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  3 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  perfect 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  13 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  4 
+ATTSP:  10 
+ENC:  0
+Final AC:  35 
+Final EV:  48 
+Final SH:  13 
+Final ENC:  46 
+Final ATT:  4 
+Final ATTSP:  10
+Name:  dummy 
+Type:  0 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  perfect 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  3 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  4 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  2 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  6 
+ATTSP:  14 
+ENC:  0
+Final AC:  55 
+Final EV:  69 
+Final SH:  2 
+Final ENC:  55 
+Final ATT:  6 
+Final ATTSP:  14
+Name:  dummy 
+Type:  0 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  1 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  3 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  4 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  4 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  19 
+ATTSP:  2 
+ENC:  0
+Final AC:  52 
+Final EV:  45 
+Final SH:  4 
+Final ENC:  43 
+Final ATT:  19 
+Final ATTSP:  2
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  2 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  3 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  4 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Final AC:  66 
+Final EV:  42 
+Final SH:  0 
+Final ENC:  59 
+Final ATT:  0 
+Final ATTSP:  0
+Name:  dummy 
+Type:  0 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  1 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  2 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  3 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  4 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  11 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  11 
+ATTSP:  4 
+ENC:  0
+Final AC:  47 
+Final EV:  39 
+Final SH:  11 
+Final ENC:  47 
+Final ATT:  11 
+Final ATTSP:  4
+Name:  dummy 
+Type:  0 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  1 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  2 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  perfect 
+Type:  3 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  2 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  8 
+ATTSP:  10 
+ENC:  0
+Final AC:  54 
+Final EV:  47 
+Final SH:  2 
+Final ENC:  47 
+Final ATT:  8 
+Final ATTSP:  10
+Name:  dummy 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  perfect 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  4 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  8 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  2 
+ENC:  0
+Final AC:  55 
+Final EV:  59 
+Final SH:  8 
+Final ENC:  52 
+Final ATT:  0 
+Final ATTSP:  2
+Name:  dummy 
+Type:  0 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  1 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  2 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  3 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  4 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  13 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Final AC:  41 
+Final EV:  31 
+Final SH:  13 
+Final ENC:  76 
+Final ATT:  0 
+Final ATTSP:  0
+Name:  dummy 
+Type:  0 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  1 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  2 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  14
+Name:  dummy 
+Type:  3 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  4 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  4 
+ATTSP:  10 
+ENC:  0
+Final AC:  51 
+Final EV:  54 
+Final SH:  0 
+Final ENC:  65 
+Final ATT:  4 
+Final ATTSP:  10
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  perfect 
+Type:  1 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  2 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  3 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  4 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  6 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  14 
+ATTSP:  3 
+ENC:  0
+Final AC:  77 
+Final EV:  73 
+Final SH:  6 
+Final ENC:  79 
+Final ATT:  14 
+Final ATTSP:  3
+Name:  dummy 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  1 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  11
+Name:  dummy 
+Type:  2 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  3 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  4 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Final AC:  38 
+Final EV:  47 
+Final SH:  0 
+Final ENC:  41 
+Final ATT:  0 
+Final ATTSP:  0
+Name:  dummy 
+Type:  1 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  2 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  3 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  4 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  19 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  1 
+ATTSP:  16 
+ENC:  0
+Final AC:  29 
+Final EV:  51 
+Final SH:  19 
+Final ENC:  53 
+Final ATT:  1 
+Final ATTSP:  16
+Name:  dummy 
+Type:  0 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  1 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  3 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  4 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  1 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  6 
+ATTSP:  5 
+ENC:  0
+Final AC:  37 
+Final EV:  45 
+Final SH:  1 
+Final ENC:  45 
+Final ATT:  6 
+Final ATTSP:  5
+Name:  dummy 
+Type:  0 
+AC:  16 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  1 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  2 
+AC:  6 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  1
+Name:  dummy 
+Type:  3 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  4 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  11 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  16 
+ATTSP:  4 
+ENC:  0
+Final AC:  52 
+Final EV:  44 
+Final SH:  11 
+Final ENC:  77 
+Final ATT:  16 
+Final ATTSP:  4
+Name:  dummy 
+Type:  0 
+AC:  0 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  15
+Name:  dummy 
+Type:  1 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  5
+Name:  dummy 
+Type:  2 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  4 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  15 
+ATTSP:  13 
+ENC:  0
+Final AC:  33 
+Final EV:  19 
+Final SH:  0 
+Final ENC:  45 
+Final ATT:  15 
+Final ATTSP:  13
+Name:  perfect 
+Type:  0 
+AC:  19 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  1 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  3 
+AC:  13 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  4 
+AC:  8 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  1 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  18 
+ATTSP:  9 
+ENC:  0
+Final AC:  58 
+Final EV:  46 
+Final SH:  1 
+Final ENC:  66 
+Final ATT:  18 
+Final ATTSP:  9
+Name:  dummy 
+Type:  0 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  1 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  2 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  3 
+AC:  11 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  3
+Name:  dummy 
+Type:  4 
+AC:  12 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  10
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  10 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  4 
+ATTSP:  10 
+ENC:  0
+Final AC:  57 
+Final EV:  59 
+Final SH:  10 
+Final ENC:  76 
+Final ATT:  4 
+Final ATTSP:  10
+Name:  dummy 
+Type:  0 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  1 
+AC:  2 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  6
+Name:  dummy 
+Type:  2 
+AC:  15 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  2
+Name:  dummy 
+Type:  3 
+AC:  1 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  18
+Name:  dummy 
+Type:  4 
+AC:  17 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  16 
+ATTSP:  19 
+ENC:  0
+Final AC:  50 
+Final EV:  54 
+Final SH:  0 
+Final ENC:  59 
+Final ATT:  16 
+Final ATTSP:  19
+Name:  dummy 
+Type:  2 
+AC:  10 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  17
+Name:  dummy 
+Type:  3 
+AC:  9 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  4
+Name:  dummy 
+Type:  4 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  0
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  4 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  19 
+ATTSP:  2 
+ENC:  0
+Final AC:  23 
+Final EV:  15 
+Final SH:  4 
+Final ENC:  34 
+Final ATT:  19 
+Final ATTSP:  2
+Name:  dummy 
+Type:  0 
+AC:  14 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  16
+Name:  dummy 
+Type:  1 
+AC:  18 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  8
+Name:  dummy 
+Type:  2 
+AC:  7 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  9
+Name:  dummy 
+Type:  3 
+AC:  5 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  12
+Name:  dummy 
+Type:  4 
+AC:  4 
+SH:  0 
+ATT:  0 
+ATTSP:  0 
+ENC:  19
+Name:  dummy 
+Type:  5 
+AC:  0 
+SH:  13 
+ATT:  0 
+ATTSP:  0 
+ENC:  13
+Name:  dummy 
+Type:  6 
+AC:  0 
+SH:  0 
+ATT:  1 
+ATTSP:  5 
+ENC:  0
+Final AC:  48 
+Final EV:  42 
+Final SH:  13 
+Final ENC:  77 
+Final ATT:  1 
+Final ATTSP:  5
