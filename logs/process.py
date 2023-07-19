@@ -16,14 +16,17 @@ class Processor:
                     concatenated = "Final " + self.slot_dict[key]
                     #If you're in the entry, use the key on the list_dict to get the proper list
                     if concatenated in entry:
-                        print(entry.split(":")[1].split(" ")[2].split("\n")[0])
-                        if key == 0:
-                            self.list_dict[key].append(float(entry.split(":")[1].split(" ")[2].split("\n")[0]))
+                        #print(entry.split(":")[1].split(" ")[2].split("\n")[0])
+                        self.list_dict[key].append(float(entry.split(":")[1].split(" ")[2].split("\n")[0]))
 
     def plot_list(self,fig, ax, data, data_string, save_string):
         # Plot some data
         ax.plot(data, 'bo')
-
+        
+        if data_string in ["AC", "EV", "ENC", "Reward"]:
+            ax.set_ylim(bottom=0, top=19*5)
+        else:
+            ax.set_ylim(bottom=0, top=20)
         # Set the title and labels
         ax.set_title(data_string)
         ax.set_xlabel("Trial")
