@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 class Processor:
     def __init__(self, logs_path):
+    
         self.list_rewards = []
         self.list_ac = []
         self.list_ev = []
@@ -9,32 +10,22 @@ class Processor:
         self.list_att = []
         self.list_attsp = []
         self.logs_path = logs_path
+        self.list_dict = {0:self.list_rewards, 1:self.list_ac, 2:self.list_ev, 3:self.list_sh, 4:self.list_enc, 5:self.list_att, 6:self.list_attsp}
+        self.slot_dict = {0:"Rewards", 1:"AC", 2:"EV", 3:"SH", 4:"ENC", 5:"ATT", 6:"ATTSP"}
     
     def set_up_lists(self):
         with open(self.logs_path + 'terminated_logs.txt','r') as f:
             lines = f.readlines()
             for entry in lines:
-                if "Final Reward" in entry:
-                    #print(entry.split(":")[1].split(" ")[2].split("\n")[0])
-                    self.list_rewards.append(float(entry.split(":")[1].split(" ")[2].split("\n")[0]))
-                if "Final AC" in entry:
-                    #print(entry.split(":")[1].split(" ")[2].split("\n")[0])
-                    self.list_ac.append(int(entry.split(":")[1].split(" ")[2].split("\n")[0]))
-                if "Final EV" in entry:
-                    #print(entry.split(":")[1].split(" ")[2].split("\n")[0])
-                    self.list_ev.append(int(entry.split(":")[1].split(" ")[2].split("\n")[0]))
-                if "Final SH" in entry:
-                    #print(entry.split(":")[1].split(" ")[2].split("\n")[0])
-                    self.list_sh.append(int(entry.split(":")[1].split(" ")[2].split("\n")[0]))
-                if "Final ENC" in entry:
-                    #print(entry.split(":")[1].split(" ")[2].split("\n")[0])
-                    self.list_enc.append(int(entry.split(":")[1].split(" ")[2].split("\n")[0]))
-                if "Final ATT" in entry:
-                    #print(entry.split(":")[1].split(" ")[2].split("\n")[0])
-                    self.list_att.append(int(entry.split(":")[1].split(" ")[2].split("\n")[0]))
-                if "Final ATTSP" in entry:
-                    #print(entry.split(":")[1].split(" ")[2].split("\n")[0])
-                    self.list_attsp.append(int(entry.split(":")[1].split(" ")[2].split("\n")[0]))
+                #Check our slot_dict to find out which one we're in
+                for key in self.slot_dict:
+                    #Add this to exclude the SK categories
+                    
+                    concatenated = "Final " + self.slot_dict[key]
+                    #If you're in the entry, use the key on the list_dict to get the proper list
+                    if concatenated in entry:
+                        self.list_dict[key].append(float(entry.split(":")[1].split(" ")[2].split("\n")[0]))
+
 
     def plot_list(self,fig, ax, data, data_string, save_string):
         # Plot some data
@@ -48,26 +39,10 @@ class Processor:
         # Show the plot
         plt.savefig(save_string)
         
+
     def plot_all(self):    
         # Create a figure and axes
-        fig1, ax1 = plt.subplots()
-        self.plot_list(fig1, ax1, self.list_rewards, "Rewards", self.logs_path + "rewards.png")
-
-        fig2, ax2 = plt.subplots()
-        self.plot_list(fig2, ax2, self.list_ac, "AC", self.logs_path + "ac.png")
-
-        fig3, ax3 = plt.subplots()
-        self.plot_list(fig3, ax3, self.list_ev, "EV", self.logs_path + "ev.png")
-
-        fig4, ax4 = plt.subplots()
-        self.plot_list(fig4, ax4, self.list_sh, "SH", self.logs_path + "sh.png")
-
-        fig5, ax5 = plt.subplots()
-        self.plot_list(fig5, ax5, self.list_enc, "ENC", self.logs_path + "enc.png")
-
-        fig6, ax6 = plt.subplots()
-        self.plot_list(fig6, ax6, self.list_att, "ATT", self.logs_path + "att.png")
-
-        fig7, ax7 = plt.subplots()
-        self.plot_list(fig7, ax7, self.list_attsp, "ATTSP", self.logs_path + "attsp.png")
+        for i in range(7):
+            fig1, ax1 = plt.subplots()
+            self.plot_list(fig1, ax1, self.list_dict[i], self.slot_dict[i], self.logs_path + self.slot_dict[i] + ".png")
         
