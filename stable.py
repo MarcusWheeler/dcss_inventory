@@ -2,17 +2,19 @@ import gymnasium as gym
 import dcss_examples
 from stable_baselines3 import PPO
 from stable_baselines3.common.env_util import make_vec_env
+import os
 import time
 import sys
 sys.path.append("logs/")
 import process
 # Parallel environments
 iterations = 30
-vec_env = make_vec_env("dcss_examples/Inventory-v0", n_envs=1, env_kwargs={"render_mode": "None", "verbose_output": "False", "max_iterations":iterations})
-
-model = PPO("MultiInputPolicy", vec_env, verbose=0, device="cpu")
+vec_env = make_vec_env("dcss_examples/Inventory-v0", n_envs=100, env_kwargs={"render_mode": "None", "verbose_output": "False", "max_iterations":iterations})
+if os.path.isfile('logs/terminated_logs.txt'):
+    os.remove('logs/terminated_logs.txt')
+model = PPO("MultiInputPolicy", vec_env, verbose=1, device="cpu")
 model.load("dcss_inventory_bot")
-model.learn(total_timesteps=2048)
+model.learn(total_timesteps=20480000)
 
 
 obs = vec_env.reset()
