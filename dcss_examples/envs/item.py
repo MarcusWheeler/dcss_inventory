@@ -42,4 +42,5 @@ class Item():
             self.ENC = random.choice(range(20))
     
     def print_stats(self, f):
-        print("Name: ", self.name, "\nType: ", self.item_type, "\nAC: ", self.AC, "\nSH: ", self.SH, "\nATT: ", self.ATT, "\nATTSP: ", self.ATTSP, "\nENC: ", self.ENC, file=f)
+        print("Name: ", self.name, "\nType: ", self.item_type, "\nAC: ", self.AC, "\nEV: ", self.EV, "\nSH: ", self.SH, "\nATT: ", self.ATT, "\nATTSP: ", self.ATTSP, "\nENC: ", self.ENC, file=f)
+        

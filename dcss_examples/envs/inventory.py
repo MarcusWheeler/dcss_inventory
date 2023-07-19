@@ -8,19 +8,18 @@ sys.path.append("dcss_examples/envs/")
 from item import Item
 """
 TODO:
-Sort inventory by AC/EV/etc... and figure out max AC etc.
-Actually get reward function going
--This includes doing the dodging and EV formulas
-
+Make random items appear every x steps of the simulation
+Update reward function to use dodge/evasion equations - current is okay though
 
 """
 class InventoryEnv(gym.Env):
     metadata = {"render_modes": ["human", "rgb_array", "None"], "render_fps": 4}
 
-    def __init__(self, render_mode=None, verbose_output = False, max_iterations = 100):
+    def __init__(self, render_mode=None, verbose_output = False, max_iterations = 100, replace_frame = 10):
         self.size = 341  # The size of our observation space - AC, EV, SH, ATTSP, ATT, STR, INT, DEX, SKILL:SH, SKILL:AC, SKILL: EV
         self.window_size = 512  # The size of the PyGame window
 
+        self.replace_frame = replace_frame # The timestep that an item is replaced on.
         self.verbose_output = verbose_output
         self.iteration = 0 #Which turn we're on
         self.max_iterations = max_iterations# End of episode
@@ -303,11 +302,11 @@ class InventoryEnv(gym.Env):
         #Randomize our stats for another go around
         self._randomize_stats()
         self._set_up_random_inventory()
-        with open('logs/inventory_check.txt','a') as f:
-            f.write("--------------------\n")
-            for i in range(52):
-                self.inventory[i].print_stats(f)
-            f.write("--------------------\n")
+        #with open('logs/inventory_check.txt','a') as f:
+            #f.write("--------------------\n")
+            #for i in range(52):
+            #    self.inventory[i].print_stats(f)
+            #f.write("--------------------\n")
         self.iteration = 0
         #Base observation should be all 0's
         observation = self._get_obs()
@@ -332,7 +331,6 @@ class InventoryEnv(gym.Env):
         else:
             #print("Equipping item")
             self._equip_item(self.inventory[action])
-
         self.iteration += 1
         terminated = (self.iteration >= self.max_iterations)
 
@@ -343,6 +341,24 @@ class InventoryEnv(gym.Env):
         if self.render_mode == "human":
             self._render_frame()
 
+        #If we're on a replace frame, choose a random item that is not equipped and randomize its stats
+        if self.iteration % self.replace_frame == 0:
+            item_index = random.choice(range(52))
+            #While we have an item that's currently equipped, keep looking
+            while self.inventory[item_index] in self.currently_equipped:
+                item_index = random.choice(range(52))
+            
+            #print("Switching index: ", item_index)
+            #print("Before: ")
+            
+            #self.inventory[item_index].print_stats(None)
+            self.inventory.remove(self.inventory[item_index])
+            
+            self.inventory.insert(item_index,Item("dummy", "dummy"))
+            self.inventory[item_index].generate_random_item()
+            
+            #print("After: ")
+            #self.inventory[item_index].print_stats(None)
         return observation, reward, terminated, False, info
 
     def render(self):
