@@ -302,6 +302,12 @@ class InventoryEnv(gym.Env):
             self._equip_item(None, i)
         #Randomize our stats for another go around
         self._randomize_stats()
+        self._set_up_random_inventory()
+        with open('logs/inventory_check.txt','a') as f:
+            f.write("--------------------\n")
+            for i in range(52):
+                self.inventory[i].print_stats(f)
+            f.write("--------------------\n")
         self.iteration = 0
         #Base observation should be all 0's
         observation = self._get_obs()

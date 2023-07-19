@@ -9,12 +9,14 @@ sys.path.append("logs/")
 import process
 # Parallel environments
 iterations = 30
-vec_env = make_vec_env("dcss_examples/Inventory-v0", n_envs=100, env_kwargs={"render_mode": "None", "verbose_output": "False", "max_iterations":iterations})
+vec_env = make_vec_env("dcss_examples/Inventory-v0", n_envs=1, env_kwargs={"render_mode": "None", "verbose_output": "False", "max_iterations":iterations})
 if os.path.isfile('logs/terminated_logs.txt'):
     os.remove('logs/terminated_logs.txt')
+if os.path.isfile('logs/inventory_check.txt'):
+    os.remove('logs/inventory_check.txt')
 model = PPO("MultiInputPolicy", vec_env, verbose=1, device="cpu")
 model.load("dcss_inventory_bot")
-model.learn(total_timesteps=20480000)
+model.learn(total_timesteps=90)
 
 
 obs = vec_env.reset()
