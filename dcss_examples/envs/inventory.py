@@ -8,7 +8,6 @@ sys.path.append("dcss_examples/envs/")
 from item import Item
 """
 TODO:
-Make random items appear every x steps of the simulation
 Update reward function to use dodge/evasion equations - current is okay though
 
 """
@@ -54,12 +53,11 @@ class InventoryEnv(gym.Env):
             #self.currently_equipped[i] = random.choice(self.inventory)
 
 
-        # Each location is encoded as an element of {0, ..., `size`}^2, i.e. MultiDiscrete([size, size]).
-
+        #Set up the observation space - most have a value of 20 but some have a max value of 5 pieces of armor * 19
         self.observation_space = spaces.Dict(
             {
-                "AC": spaces.Discrete(101),
-                "EV": spaces.Discrete(101),
+                "AC": spaces.Discrete(19*5+1),
+                "EV": spaces.Discrete(19*5+1),
                 "ATT": spaces.Discrete(20),
                 "ATTSP": spaces.Discrete(20),
                 "STR": spaces.Discrete(40),
@@ -90,6 +88,7 @@ class InventoryEnv(gym.Env):
             }
         )
 
+        #add all items in the inventory and their stats to the observation space
         for i in range(52):
             self.observation_space.__setitem__("item_"+str(i)+"_AC", spaces.Discrete(20))
             self.observation_space.__setitem__("item_"+str(i)+"_EV", spaces.Discrete(20))
@@ -135,6 +134,7 @@ class InventoryEnv(gym.Env):
         self.clock = None
 
     def _set_up_random_inventory(self):
+    #Insert 5 max ac/ev/enc items into the random items.
         perfects = []
         for i in range(5):
             perfects.append(random.choice(range(52)))
@@ -147,6 +147,7 @@ class InventoryEnv(gym.Env):
                 self.inventory[i] = Item("dummy", "dummy")
                 self.inventory[i].generate_random_item()
 
+    #Give a different set of stats each session
     def _randomize_stats(self):
         self.STR = random.choice(range(40))
         self.INT = random.choice(range(40))
@@ -183,6 +184,7 @@ class InventoryEnv(gym.Env):
             self.ENC += item.ENC * operator
 
     def _get_obs(self):
+        #Observation values are the same as declared above.
         value_dict = {
         "AC": self.AC,
         "EV": self.EV,
@@ -216,6 +218,7 @@ class InventoryEnv(gym.Env):
         }
 
         for i in range(7):
+            #Have to guard against None right now. Could make a none item, but this is fine
             if self.currently_equipped[i] is not None:
                 if i == 0:
                     value_dict.update({"HelmetAC": self.currently_equipped[i].AC})
@@ -267,11 +270,7 @@ class InventoryEnv(gym.Env):
         reward = 0
 
         if terminated:
-            #print(terminated)
-            #for i in range(len(self.currently_equipped)):
-            #    if self.currently_equipped[i] is None:
-            #        reward -= 100
-            #reward += (self.AC + self.EV + self.ATT + self.ATTSP - self.ENC + self.SH)
+            #Current reward function is fine
             reward = self.AC * (self.SKAC/(26+self.ENC)) + self.EV * (self.SKEV/(26+self.ENC)) + self.SH * (self.SKSH/(26+self.ENC)) + self.ATT * (1/(1+self.ATTSP))
             if self.verbose_output is True:
                 with open('logs/terminated_logs.txt','a') as f:

@@ -39,8 +39,9 @@ if os.path.isfile('logs/terminated_logs.txt'):
     os.remove('logs/terminated_logs.txt')
 if os.path.isfile('logs/inventory_check.txt'):
     os.remove('logs/inventory_check.txt')
+    
 #Cpu is faster for me for some reason - cuda is very slow
-model = PPO("MultiInputPolicy", vec_env, verbose=0, device="cpu")
+model = PPO("MultiInputPolicy", vec_env, verbose=1, device="cpu")
 
 #If we have a model already, load it
 if os.path.isfile('dcss_inventory_bot.zip'):
@@ -48,9 +49,9 @@ if os.path.isfile('dcss_inventory_bot.zip'):
 
 #After every session, save the model
 for i in range(sessions):
-    model.learn(total_timesteps=2048)
+    model.learn(total_timesteps=2048 * num_envs)
     model.save("dcss_inventory_bot")
-    print("Session ", i, " done.\n Saved.\n")
+    print("Session ", i+1, " done.\n Saved.\n")
 obs = vec_env.reset()
 vec_env.env_method("toggle_verbose_output")
 print("Done with all sessions.\nStarting records:")

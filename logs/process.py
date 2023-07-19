@@ -2,19 +2,18 @@ import matplotlib.pyplot as plt
 class Processor:
     def __init__(self, logs_path):
         self.logs_path = logs_path
-        self.list_dict = {0:[], 1:[], 2:[], 3:[], 4:[], 5:[], 6:[]}
-        self.slot_dict = {0:"Reward", 1:"AC", 2:"EV", 3:"SH", 4:"ENC", 5:"ATT", 6:"ATTSP"}
+        self.list_dict = {"Reward":[], "AC":[], "EV":[], "SH":[], "ENC":[], "ATT":[], "ATTSP":[]}
         self.set_up_lists()
         
     def set_up_lists(self):
         with open(self.logs_path + 'terminated_logs.txt','r') as f:
             lines = f.readlines()
             for entry in lines:
-                #Check our slot_dict to find out which one we're in
-                for key in self.slot_dict:
+                #Check our list_dict to find out which one we're in
+                for key in self.list_dict:
                     #Add this to exclude the SK categories
                     
-                    concatenated = "Final " + self.slot_dict[key]
+                    concatenated = "Final " + key
                     #If you're in the entry, use the key on the list_dict to get the proper list
                     if concatenated in entry:
                         #print(entry.split(":")[1].split(" ")[2].split("\n")[0])
@@ -39,7 +38,7 @@ class Processor:
 
     def plot_all(self):    
         # Create a figure and axes
-        for i in range(7):
+        for key in self.list_dict:
             fig1, ax1 = plt.subplots()
-            self.plot_list(fig1, ax1, self.list_dict[i], self.slot_dict[i], self.logs_path + self.slot_dict[i] + ".png")
+            self.plot_list(fig1, ax1, self.list_dict[key], key, self.logs_path + key + ".png")
         
