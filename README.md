@@ -4,15 +4,25 @@ python3 stable.py [iterations per session] [frame to replace items on] [# sessio
 
 Structure:
 dcss-examples
+    
     |stable.py
+    
     |setup.py
+    
     logs
+    
         |process.py
+    
     dcss_examples
+            
         |__init__.py
+        
         envs
+        
             |__init__.py
+            
             |inventory.py
+            
             |item.py
 
 inventory.py contains the custom environment for gymnasium
