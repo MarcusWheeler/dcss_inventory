@@ -4,7 +4,8 @@ class Processor:
         self.logs_path = logs_path
         self.list_dict = {0:[], 1:[], 2:[], 3:[], 4:[], 5:[], 6:[]}
         self.slot_dict = {0:"Reward", 1:"AC", 2:"EV", 3:"SH", 4:"ENC", 5:"ATT", 6:"ATTSP"}
-    
+        self.set_up_lists()
+        
     def set_up_lists(self):
         with open(self.logs_path + 'terminated_logs.txt','r') as f:
             lines = f.readlines()
