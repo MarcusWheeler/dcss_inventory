@@ -23,9 +23,13 @@ if len(sys.argv) > 3:
 else:
     sessions = 10
 
+if len(sys.argv) > 4:
+    num_envs = int(sys.argv[4])
+else:
+    num_envs = 1
 
 #Make the environment and pass in the iterations and replace_frame
-vec_env = make_vec_env("dcss_examples/Inventory-v0", n_envs=1, env_kwargs={"render_mode": "None", "verbose_output": "False", "max_iterations":iterations, "replace_frame":replace_frame})
+vec_env = make_vec_env("dcss_examples/Inventory-v0", n_envs=num_envs, env_kwargs={"render_mode": "None", "verbose_output": "False", "max_iterations":iterations, "replace_frame":replace_frame})
 #Remove logs from previous session.
 """
 TODO:
