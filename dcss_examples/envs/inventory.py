@@ -136,12 +136,20 @@ class InventoryEnv(gym.Env):
     def _set_up_random_inventory(self):
     #Insert 5 max ac/ev/enc items into the random items.
         perfects = []
-        for i in range(5):
+        for i in range(7):
             perfects.append(random.choice(range(52)))
         slot_iterator = 0
         for i in range(52):
             if i in perfects:
-                self.inventory[i] = Item("perfect",slot_iterator, 19, 0, 0, 0, 19, 19)
+                if slot_iterator < 5:
+                    #19 ac, 19 ev, 0 enc
+                    self.inventory[i] = Item("perfect_armor_piece",slot_iterator, 19, 0, 0, 0, 0, 19)
+                elif slot_iterator == 5:
+                    #19sh 0ench
+                    self.inventory[i] = Item("perfect_shield",slot_iterator, 0, 19, 0, 0, 0, 0)
+                else:
+                    #19att 0 attsp
+                    self.inventory[i] = Item("perfect_weapon",slot_iterator, 0, 0, 19, 0, 0, 0)
                 slot_iterator += 1
             else:
                 self.inventory[i] = Item("dummy", "dummy")
@@ -271,7 +279,7 @@ class InventoryEnv(gym.Env):
 
         if terminated:
             #Current reward function is fine
-            reward = self.AC * (self.SKAC/(26+self.ENC)) + self.EV * (self.SKEV/(26+self.ENC)) + self.SH * (self.SKSH/(26+self.ENC)) + self.ATT * (1/(1+self.ATTSP))
+            reward = self.reward_function()
             if self.verbose_output is True:
                 with open('logs/terminated_logs.txt','a') as f:
                     for i in range(7):
@@ -282,7 +290,16 @@ class InventoryEnv(gym.Env):
                 f.close()
 
         return reward
-
+    
+    def reward_function(self):
+        #returns the ratio of gained score to perfect score. 
+        #Probably bad practice, but I have perfect knowledge of all items I've encountered, so should actually work
+        
+        return (self.AC * (self.SKAC/(26+self.ENC)) + self.EV * (self.SKEV/(26+self.ENC)) + self.SH * (self.SKSH/(26+self.ENC)) + self.ATT * (1/(1+self.ATTSP))) / self.perfect_reward()
+        
+    def perfect_reward(self):
+        return ((19*5) * (26/26) + (19*5) * (26/26) + (19) * (26/26) + 19 * (1/(1+0)))
+        
     def toggle_verbose_output(self):
         self.verbose_output = True
 

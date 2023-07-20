@@ -23,8 +23,10 @@ class Processor:
         # Plot some data
         ax.plot(data, 'bo')
         
-        if data_string in ["AC", "EV", "ENC", "Reward"]:
+        if data_string in ["AC", "EV", "ENC"]:
             ax.set_ylim(bottom=0, top=19*5)
+        elif data_string ==  "Reward":
+            ax.set_ylim(bottom=0, top = 1)
         else:
             ax.set_ylim(bottom=0, top=20)
         # Set the title and labels
